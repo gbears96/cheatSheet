@@ -1,0 +1,39 @@
+* {
+    text-align: center;
+    font-family: Roboto,Helvetica, sans-serif;
+    /* background-image: url(../images/circles.jpg); */
+    /* background wallpaper */
+    background-color: gainsboro;
+}
+
+.title {
+    background-color:lightblue;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.table-name {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table {
+    border: 3px solid navy;
+    width: 75%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+thead th {
+    text-transform: uppercase;
+    background-color: lightblue;
+    font-weight:bold;
+}
+
+tbody {
+    text-transform: lowercase;
+    font-weight: normal;
+    color: black;
+}
